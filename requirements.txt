@@ -11,3 +11,9 @@
 # add requirements 
 
 aiogram
+telebot
+aiohttp
+requests
+aiohttp
+Flask
+gunicorn
